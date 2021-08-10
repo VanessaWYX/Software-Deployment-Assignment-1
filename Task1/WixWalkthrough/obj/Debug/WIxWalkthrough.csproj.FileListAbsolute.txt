@@ -1,0 +1,10 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\bin\Debug\WIxWalkthrough.exe.config
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\bin\Debug\WIxWalkthrough.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\bin\Debug\WIxWalkthrough.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\obj\Debug\WixWalkthrough.Form1.resources
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\obj\Debug\WIxWalkthrough.Properties.Resources.resources
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\obj\Debug\WixWalkthrough.csproj.GenerateResource.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\obj\Debug\WixWalkthrough.csproj.CoreCompileInputs.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\obj\Debug\WIxWalkthrough.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\obj\Debug\WIxWalkthrough.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1\WixWalkthrough\obj\Debug\WixWalkthrough.csproj.AssemblyReference.cache

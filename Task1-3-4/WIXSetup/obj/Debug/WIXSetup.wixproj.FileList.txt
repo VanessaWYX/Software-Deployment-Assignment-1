@@ -1,0 +1,6 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WIXSetup\bin\Debug\WIXSetup.msi
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WIXSetup\bin\Debug\WIXSetup.wixpdb
+obj\Debug\Product.wixobj
+obj\Debug\WIXSetup.wixproj.BindContentsFileListnull.txt
+obj\Debug\WIXSetup.wixproj.BindOutputsFileListnull.txt
+obj\Debug\WIXSetup.wixproj.BindBuiltOutputsFileListnull.txt

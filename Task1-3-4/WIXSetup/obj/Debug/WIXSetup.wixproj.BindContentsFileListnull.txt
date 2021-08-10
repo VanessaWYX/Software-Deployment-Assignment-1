@@ -1,0 +1,3 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\bin\Debug\AdvanceMaths.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\bin\Debug\DHDistinctionTask.dll

@@ -1,0 +1,6 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\bin\Debug\AdvanceMaths.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\bin\Debug\AdvanceMaths.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\obj\Debug\AdvanceMaths.csproj.AssemblyReference.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\obj\Debug\AdvanceMaths.csproj.CoreCompileInputs.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\obj\Debug\AdvanceMaths.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\obj\Debug\AdvanceMaths.pdb

@@ -1,0 +1,6 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\bin\Debug\DHDistinctionTask.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\bin\Debug\DHDistinctionTask.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\obj\Debug\DHDistinctionTask.csproj.AssemblyReference.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\obj\Debug\DHDistinctionTask.csproj.CoreCompileInputs.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\obj\Debug\DHDistinctionTask.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\obj\Debug\DHDistinctionTask.pdb

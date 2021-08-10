@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\WinUniversalPackage\\WinUniversalPackage.wapproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\AdvanceMaths\\AdvanceMaths.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\AdvanceMaths\\AdvanceMaths.csproj",
+        "projectName": "AdvanceMaths",
+        "projectPath": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\AdvanceMaths\\AdvanceMaths.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\CalculatorConsoleApp\\CalculatorConsoleApp.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\CalculatorConsoleApp\\CalculatorConsoleApp.csproj",
+        "projectName": "CalculatorConsoleApp",
+        "projectPath": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\CalculatorConsoleApp\\CalculatorConsoleApp.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\AdvanceMaths\\AdvanceMaths.csproj": {
+                "projectPath": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\AdvanceMaths\\AdvanceMaths.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\WinUniversalPackage\\WinUniversalPackage.wapproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\WinUniversalPackage\\WinUniversalPackage.wapproj",
+        "projectName": "WinUniversalPackage",
+        "projectPath": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\WinUniversalPackage\\WinUniversalPackage.wapproj",
+        "packagesPath": "C:\\Users\\vanew\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\WinUniversalPackage\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanew\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "targetAlias": "net451",
+            "projectReferences": {
+              "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\CalculatorConsoleApp\\CalculatorConsoleApp.csproj": {
+                "projectPath": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-3-4\\CalculatorConsoleApp\\CalculatorConsoleApp.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "targetAlias": "net451",
+          "dependencies": {
+            "Microsoft.Windows.SDK.BuildTools": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.19041.8, )"
+            }
+          },
+          "imports": [
+            "netcoreapp3.1",
+            "netcoreapp3.0",
+            "netcoreapp2.0",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net5.0-windows10.0.17763",
+            "net6.0-windows10.0.17763",
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

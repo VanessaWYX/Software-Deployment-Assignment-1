@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="WIXSetup" Language="1033" Version="1.0.0.0" Manufacturer="Vanessa Wong" UpgradeCode="2dea1e66-6967-4cc6-9c4a-8ea8316c9d95">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+		<Feature Id="ProductFeature" Title="WIXSetup" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WIXSetup for Credit Task" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <Component Id="CreditTask.exe" Guid="9563A91A-F2DB-48B2-B3E7-CB7A98A70BD4">
+        <File Id="CreditTask.exe" Name="CreditTask.exe" Source="$(var.CreditTask.TargetDir)CreditTask.exe"></File>
+      </Component>
+		</ComponentGroup>
+	</Fragment>
+</Wix>

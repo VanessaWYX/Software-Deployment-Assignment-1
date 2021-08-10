@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Users/vanew/Desktop/Deployment/Assignment1/Task1-2/WinUniversalPackage/WinUniversalPackage.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="39e06a87-75fc-4321-a211-739679c7e320"
+		Version="1.0.0.0"
+		Publisher="CN=vanew"
+		Uri="file:///C:/Users/vanew/Desktop/Deployment/Assignment1/Task1-2/WinUniversalPackage/WinUniversalPackage_1.0.0.0_Test/WinUniversalPackage_1.0.0.0_AnyCPU.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>

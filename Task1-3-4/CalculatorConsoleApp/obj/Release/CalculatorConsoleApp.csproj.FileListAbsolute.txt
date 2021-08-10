@@ -1,0 +1,12 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\CalculatorConsoleApp.exe.config
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\CalculatorConsoleApp.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\CalculatorConsoleApp.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\AdvanceMaths.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\DHDistinctionTask.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\AdvanceMaths.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\DHDistinctionTask.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\obj\Release\CalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\obj\Release\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\obj\Release\CalculatorConsoleApp.csproj.CopyComplete
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\obj\Release\CalculatorConsoleApp.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\obj\Release\CalculatorConsoleApp.pdb

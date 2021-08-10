@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://schemas.microsoft.com/wix/2006/wi">
+	<Product Id="*" Name="WIXSetup" Language="1033" Version="1.0.0.0" Manufacturer="Vanessa Wong" UpgradeCode="7c241e93-5dd6-4f22-905a-f93ff7cc9b15">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate EmbedCab="yes"/>
+
+    <Feature Id="ProductFeature" Title="WIXSetup" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="WIXSetup for DHDinstiction Task" />
+			</Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+   
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">      
+      <Component>
+        <File Id="CalculatorConsoleApp.exe" Name="CalculatorConsoleApp.exe" Source="$(var.CalculatorConsoleApp.TargetDir)"></File>
+      </Component>
+
+      <Component>
+        <File Id="DHDistinctionTask.dll"  Name="DHDistinctionTask.dll" Source="$(var.DHDistinctionTask.TargetDir)"/>
+      </Component>
+
+      <Component>
+        <File Id="AdvanceMaths.dll" Name="AdvanceMaths.dll" Source="$(var.AdvanceMaths.TargetDir)"/>
+      </Component>
+
+    </ComponentGroup>
+	</Fragment>
+</Wix>

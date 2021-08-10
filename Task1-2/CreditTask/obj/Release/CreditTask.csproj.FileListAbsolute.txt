@@ -1,0 +1,7 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-2\CreditTask\bin\Release\CreditTask.exe.config
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-2\CreditTask\bin\Release\CreditTask.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-2\CreditTask\bin\Release\CreditTask.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-2\CreditTask\obj\Release\CreditTask.csproj.AssemblyReference.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-2\CreditTask\obj\Release\CreditTask.csproj.CoreCompileInputs.cache
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-2\CreditTask\obj\Release\CreditTask.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-2\CreditTask\obj\Release\CreditTask.pdb

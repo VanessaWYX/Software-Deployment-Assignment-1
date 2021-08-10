@@ -1,0 +1,15 @@
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\Images\SplashScreen.scale-200.png
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\Images\StoreLogo.png
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\WinUniversalPackage\bin\AnyCPU\Release\resources.pri
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\bin\Release\AdvanceMaths.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\bin\Debug\DHDistinctionTask.dll
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\AdvanceMaths\bin\Release\AdvanceMaths.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\DHDistinctionTask\bin\Debug\DHDistinctionTask.pdb
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\CalculatorConsoleApp.exe
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\CalculatorConsoleApp.exe.config
+C:\Users\vanew\Desktop\Deployment\Assignment1\Task1-3-4\CalculatorConsoleApp\bin\Release\CalculatorConsoleApp.pdb

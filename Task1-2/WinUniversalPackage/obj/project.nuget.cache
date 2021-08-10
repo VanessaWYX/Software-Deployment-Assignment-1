@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ytPlPg3g4YUsARiJkMnHS9XnWCTrhJ/COqYlWqH4ApDSbi965/c7UyshztbffQrHCBcg15536LA8usu1sRpqHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanew\\Desktop\\Deployment\\Assignment1\\Task1-2\\WinUniversalPackage\\WinUniversalPackage.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.19041.8\\microsoft.windows.sdk.buildtools.10.0.19041.8.nupkg.sha512"
+  ],
+  "logs": []
+}
